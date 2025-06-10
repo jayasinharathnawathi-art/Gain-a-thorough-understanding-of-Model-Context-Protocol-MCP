@@ -621,10 +621,6 @@ Notion MCP  已经在一些知识管理 AI 助手中得到应用。例如，�
 
 不展开了，这个是我们前端最常用的  mcp
 
-### 示例五：魔方  MCP API Bridge
-
-[《数据魔方  MCP API Bridge  完整使用指南》](https://alidocs.dingtalk.com/i/nodes/QG53mjyd80RE3zEOtdPeynxLV6zbX04v?iframeQuery=utm_source%3Dportal%26utm_medium%3Dportal_recent)
-
 ## 结语
 
 Model Context Protocol  为大模型连接外部世界铺平了道路，它通过标准化的架构和协议，让众多工具和数据源成为 AI 的“触手”延伸。从架构原理、消息流程到安全机制，我们深入剖析了  MCP  的技术细节，并结合  PostgreSQL、GitHub、Notion  等实例展示其应用潜力。在场的各位无论是产品经理、技术主管还是研发工程师，相信都能从中嗅到机会：MCP  标志着 AI 从“只能对话”迈向“可以行动”的转变。然而，MCP  也并非万能，它受到当前  LLM  技术限制和自身架构选择的约束。云原生支持不足、会话状态和安全架构的权衡、LLM  上下文瓶颈、缓存与编排的问题都提醒我们，构建强大的  AI  应用是一项系统工程，**需要协议、模型和工程手段的通力配合**。
