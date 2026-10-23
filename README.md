@@ -1,4 +1,4 @@
-# 一篇文章看透  Model Context Protocol（MCP）
+YHHIUH# 一篇文章看透  Model Context Protocol（MCP）
 
 > 关于此分享，除了带大家全面的了解  MCP  的原理、构成、具体实现、安全、限制等通用内容，我们还将重点探讨一些关于认知的话题，例如  MCP  与  API  的区别，与  Function Calling  的区别等话题，最终通过这个分享，使大家：
 >
